@@ -1,5 +1,5 @@
-# Nox-Tools
+# LLAMA-X
 
-Nox-Tools is a collection of utilities designed for cracked NL Hybrid and more all for free without viruses.
+LLAMA-X is a collection of utilities designed for cracked NL Hybrid and more all for free without viruses.
 
 Please note: This repository is intended for educational purposes only. Use responsibly.
